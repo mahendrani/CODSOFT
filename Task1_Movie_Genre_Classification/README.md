@@ -1,13 +1,12 @@
 # Movie Genre Classification
 
-This project predicts the genre of a movie based on its plot description using Machine Learning.
+Built a machine learning model using TF-IDF and SVM to predict movie genres from plot summaries.
 
-Technologies Used
-- Python
-- TF-IDF
-- Naive Bayes
-- Logistic Regression
+## Steps
+- Text preprocessing & cleaning
+- TF-IDF vectorization
+- Train-test split
+- Model training
 
-Results
-Naive Bayes Accuracy: 52%
-Logistic Regression Accuracy: 58%
+## Result
+Accuracy: ~58%
