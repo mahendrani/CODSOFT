@@ -1,6 +1,6 @@
 # Movie Genre Classification
 
-Built a machine learning model using TF-IDF and SVM to predict movie genres from plot summaries.
+Built a machine learning model using TF-IDF and Logistic Regression to predict movie genres from plot summaries.
 
 ## Steps
 - Text preprocessing & cleaning
